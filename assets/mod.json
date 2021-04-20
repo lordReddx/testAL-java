@@ -1,0 +1,12 @@
+{
+  "name": "mod",
+  "displayName": "mod",
+  "author": "[red]R[scarlet]E[crimson]D",
+  "description": "Gradle jar Mindustry mod template",
+  "version": "0",
+  "main": "repowered.mod.MOD",
+  "minGameVersion": "105",
+  "dependencies": [],
+  "hidden": false,
+  "java": true
+}
